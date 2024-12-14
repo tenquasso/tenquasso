@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tenquasso
-- 🌱 I’m currently learning Web Developing
+- 🌱 I’m currently learning Web Development
 
 <!---
 tenquasso/tenquasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
