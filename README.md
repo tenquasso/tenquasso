@@ -8,7 +8,7 @@
 
 <!-- <a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a> -->
 
-### Hi!👋 i'm Nectarbuns🎀
+### Hi!👋 i'm tenquasso🎀
 
 **Philoshopher** 
 
@@ -27,10 +27,10 @@ I'm currently studying Web Developing and Machine Learning. I don't have anythin
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=tenquasso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenquasso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-<!-- ## **🎧 Spotify**
+## **🎧 Spotify**
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
-</p> -->
+</p>
 
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
@@ -39,9 +39,7 @@ I'm currently studying Web Developing and Machine Learning. I don't have anythin
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=tenquasso"> -->
 [![](https://img.shields.io/github/followers/tenquasso?label=Followers&style=social)](https://github.com/tenquasso)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/tenquasso)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mizuneenee@gmail.com)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:a.alfikri9999@gmail.com)
 <!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/tenquasso) -->
 <!-- [![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/tenquasso) -->
 <!-- [![tenquasso](https://mizu.is-a.dev/public/tenquasso.png)](https://mizu.is-a.dev/) -->
