@@ -19,8 +19,8 @@ I'm currently studying Web Developing and Machine Learning. I don't have anythin
 
 ## **📊 Github Stats**
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tenquasso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> 
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+    <img width="48%" src="https://my-three-teal.vercel.app/api?username=tenquasso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> 
+    <img width="30%" src="https://my-three-teal.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
 </p>
 
 
