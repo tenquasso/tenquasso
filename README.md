@@ -9,12 +9,12 @@
 
 ## **☕ About me**
 <a href="https://github.com/tenquasso"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm a student, and my hobbies include listening to music, reading books that they said would take me to hell, sometimes tinkering with random stuff like coding.
+i love eating carrots🥕
 <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/tenquasso"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I'm currently studying Web Developing and Machine Learning. I don't have anything special, but I hope to be able to change that in the future.
+I'm currently studying Web Developing and Machine Learning.
 
 
 ## **📊 Github Stats**
