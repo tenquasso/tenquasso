@@ -3,10 +3,9 @@
 
 ![Preview](./images/bg.webp)
 
-### Hi!👋 i'm tenquasso🎀
+**hii, im tenquasso!**
 
-**Philosopher** 
-## **📫 Contact**
+**philosopher** 
 <a href="https://github.com/tenquasso"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
 
 [![](https://img.shields.io/github/followers/tenquasso?label=Followers&style=social)](https://github.com/tenquasso)
